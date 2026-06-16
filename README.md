@@ -1,11 +1,15 @@
 # gushi — 故事：银幕剧作原理
 
+![封面](cover.jpg)
+
 基于罗伯特·麦基《故事：材质、结构、风格和银幕剧作的原理》蒸馏的 AI 短剧编剧 Skill。
 
 ## 来源
 - 原著：Robert McKee, *Story: Substance, Structure, Style, and the Principles of Screenwriting* (1997)
 - 中译本：《故事：材质、结构、风格和银幕剧作的原理》，天津人民出版社，2014
 - 全书 440 千字，19 章，4 大部分
+- 本源文件：[故事-麦基.epub](故事-麦基.epub)
+- 蒸馏工具：[dot-skill](https://github.com/titanwings/colleague-skill)
 
 ## 内容
 本 Skill 包含两部分：
